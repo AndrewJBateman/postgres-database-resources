@@ -23,17 +23,19 @@
 
 ## :books: Useful Advice/Documents/Github Repos - Associate
 
-* [Article by Srinivas of Whizlabs: How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/)
-* [Kannan: How I passed GCP Associate Cloud Engineer certification](https://www.hadoopandcloud.com/uncategorized/gcp-associate-cloud-engineer-certification/)
+* [Article by Srinivas of Whizlabs: How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/). Includes link to test exam
+* [Kannan: How I passed GCP Associate Cloud Engineer certification](https://www.hadoopandcloud.com/uncategorized/gcp-associate-cloud-engineer-certification/). Includes useful storage summary table
 * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view) 18 chapters.
-* [Associate Cloud Engineer Certification exam guide](https://cloud.google.com/certification/guides/cloud-engineer/)
-* [Cloud Advocate: Associate Cloud Engineer - Study Notes](https://docs.google.com/document/d/1EoeFLmdQbqLQLL82m4OuzuKps54mqhoR1z9_s-OA2Gs/edit#heading=h.b56f3lfsd71b)
+* [Associate Cloud Engineer Certification exam guide](https://cloud.google.com/certification/guides/cloud-engineer/). Useful list
+* [Cloud Advocate: Associate Cloud Engineer - Study Notes](https://docs.google.com/document/d/1EoeFLmdQbqLQLL82m4OuzuKps54mqhoR1z9_s-OA2Gs/edit#heading=h.b56f3lfsd71b). List of web links and notes
 * [A Cloud Guru: Google Certified Associate Cloud Engineer 2020](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer) 29dollars/month.
-* [Github Repo: Google Associate Cloud Engineer Certification](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification)
-* [Cloud Advocate: How to pass Google Associate Cloud Engineer](https://www.youtube.com/watch?v=PUid9-TIdIQ)
+* [Github Repo: Google Associate Cloud Engineer Certification](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification) lots of useful slide presentations. AA
+* [Cloud Advocate: How to pass Google Associate Cloud Engineer](https://www.youtube.com/watch?v=PUid9-TIdIQ). Useful notes and links in video
 * [Google Cloud (GCP) Associate Cloud Engineer FREE Mini Bootcamp Session 1 Gcloud Project Commands](https://www.youtube.com/watch?v=74iG2HI3w_U)
 * [Associate-Cloud-Engineer - Practice Exam Test Questions PDF Answers](https://www.youtube.com/watch?v=JdQGO9GVkZM)
-* [Google Cloud Associate Engineer Study Notes](https://github.com/WebLeash/gcp_associate_engineer)
+* [Google Cloud Associate Engineer Study Notes](https://github.com/WebLeash/gcp_associate_engineer) with links to cheatsheets
+* [Google Quickstarts](https://cloud.google.com/gcp/getting-started) tutorials: 6 Quickstarts, 4 1-minute videos, 5 Projects. AAA
+* [Powershell how-to guides](https://cloud.google.com/tools/powershell/docs/how-to)
 
 ## :books: Useful Advice/Documents/Github Repos - Professional
 
