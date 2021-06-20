@@ -1,6 +1,12 @@
 # :zap: PostgreSQL Database Resources
 
-* Information on PostgreSQL v12.2.
+* Information on PostgreSQL v12
+* **Note:** to open web links in a new window use: _ctrl+click on link_
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/postgres-database-resources?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/postgres-database-resources?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/postgres-database-resources?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/postgres-database-resources?style=plastic)
 
 ## :clipboard: GitHub Repos
 
@@ -31,6 +37,10 @@
 
 * [Amigoscode/FreeCodeCamp, Learn PostgreSQL Tutorial 4hrs - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
